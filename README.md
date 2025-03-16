@@ -69,8 +69,8 @@ Live Demo: [https://csk-assignment.vercel.app/](https://csk-assignment.vercel.ap
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/csk-shares-portal.git
-   cd csk-shares-portal
+   git clone https://github.com/faisalinfinity/Csk-assignment.git
+   cd csk-assignment
    ```
 
 2. Install dependencies
